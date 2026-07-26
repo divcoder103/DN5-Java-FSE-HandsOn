@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "id": 101,
+      "name": "Angular",
+      "instructor": "Cognizant",
+      "duration": "30 Hours"
+    },
+    {
+      "id": 102,
+      "name": "Java",
+      "instructor": "Oracle",
+      "duration": "40 Hours"
+    },
+    {
+      "id": 103,
+      "name": "Spring Boot",
+      "instructor": "Pivotal",
+      "duration": "35 Hours"
+    },
+    {
+      "id": 104,
+      "name": "SQL",
+      "instructor": "Oracle",
+      "duration": "20 Hours"
+    }
+  ]
+}

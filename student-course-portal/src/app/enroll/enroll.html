@@ -1,0 +1,25 @@
+<h2>Course Enrollment</h2>
+
+<form (ngSubmit)="submit()">
+
+  <label>Student Name</label><br>
+  <input
+      type="text"
+      [(ngModel)]="studentName"
+      name="studentName">
+
+  <br><br>
+
+  <label>Course Name</label><br>
+  <input
+      type="text"
+      [(ngModel)]="courseName"
+      name="courseName">
+
+  <br><br>
+
+  <button type="submit">
+      Enroll
+  </button>
+
+</form>
